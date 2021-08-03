@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Mario",
+    "messages": [
+      {
+        "date": "2021-06-01 12:30:44",
+        "message": "Ciao Mario, ti scrivo per chiederti quando sei disponibile per una chiacchierata",
+        "status": "sent"
+      },
+      {
+        "date": "2021-06-01 12:31:30",
+        "message": "Ciao! Ti chiamo tra pochissimo! :)",
+        "status": "received"
+      }
+    ]
+  },
+  {
+    "name": "Anna",
+    "messages": [
+      {
+        "date": "2021-05-30 14:31:30",
+        "message": "Benvenuto! Quando vuoi sentiamoci così ci mettiamo d'accordo!",
+        "status": "received"
+      }
+    ]
+  },
+  {
+    "name": "Lisa",
+    "messages": [
+      {
+        "date": "2021-06-01 12:30:44",
+        "message": "Ciao Lisa, trovo interessante quello di cui ti occupi, ci possiamo sentire?",
+        "status": "sent"
+      },
+      {
+        "date": "2021-06-01 12:31:30",
+        "message": "Ciaoo! Certo! Ho ricevuto proprio oggi l'email. Chiamami al 333 333333",
+        "status": "received"
+      }
+    ]
+  }
+]
